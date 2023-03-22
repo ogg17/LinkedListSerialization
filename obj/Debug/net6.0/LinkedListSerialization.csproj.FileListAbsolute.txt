@@ -1,0 +1,15 @@
+C:\Projects\С#\LinkedListSerialization\bin\Debug\net6.0\LinkedListSerialization.exe
+C:\Projects\С#\LinkedListSerialization\bin\Debug\net6.0\LinkedListSerialization.deps.json
+C:\Projects\С#\LinkedListSerialization\bin\Debug\net6.0\LinkedListSerialization.runtimeconfig.json
+C:\Projects\С#\LinkedListSerialization\bin\Debug\net6.0\LinkedListSerialization.dll
+C:\Projects\С#\LinkedListSerialization\bin\Debug\net6.0\LinkedListSerialization.pdb
+C:\Projects\С#\LinkedListSerialization\obj\Debug\net6.0\LinkedListSerialization.csproj.AssemblyReference.cache
+C:\Projects\С#\LinkedListSerialization\obj\Debug\net6.0\LinkedListSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\С#\LinkedListSerialization\obj\Debug\net6.0\LinkedListSerialization.AssemblyInfoInputs.cache
+C:\Projects\С#\LinkedListSerialization\obj\Debug\net6.0\LinkedListSerialization.AssemblyInfo.cs
+C:\Projects\С#\LinkedListSerialization\obj\Debug\net6.0\LinkedListSerialization.csproj.CoreCompileInputs.cache
+C:\Projects\С#\LinkedListSerialization\obj\Debug\net6.0\LinkedListSerialization.dll
+C:\Projects\С#\LinkedListSerialization\obj\Debug\net6.0\refint\LinkedListSerialization.dll
+C:\Projects\С#\LinkedListSerialization\obj\Debug\net6.0\LinkedListSerialization.pdb
+C:\Projects\С#\LinkedListSerialization\obj\Debug\net6.0\LinkedListSerialization.genruntimeconfig.cache
+C:\Projects\С#\LinkedListSerialization\obj\Debug\net6.0\ref\LinkedListSerialization.dll
